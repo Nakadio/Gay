@@ -1,0 +1,79 @@
+; Copyright © Microsoft Corp.
+; Windows Theme by kurohtenshi. Made with Dot Theme Creator. More Themes Visit http://nikennosekai.blogspot.com
+[Theme]
+; Windows 8 & 8.1 - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi
+ThemeId={9da4b32b-1d29-4f2b-99ae-72717a13b1bc}
+BrandImage=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\brandkurohtenshi.png
+
+; Computer - SHIDI_SERVER
+
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\ico\1.ico,0
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\ico\2.ico,0
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\ico\3.ico,0
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\ico\5.ico,0
+Empty=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\ico\4.ico,0
+
+[Control Panel\Cursors]
+Arrow=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\Arrow.cur
+AppStarting=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\AppStarting.ani
+Help=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\Help.cur
+Wait=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\Wait.ani
+Crosshair=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\Crosshair.cur
+IBeam=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\IBeam.cur
+NWPen=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\NWPen.cur
+No=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\No.cur
+SizeNS=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\SizeNS.cur
+SizeWE=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\SizeWE.cur
+SizeNWSE=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\SizeNWSE.cur
+SizeNESW=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\SizeNESW.cur
+SizeAll=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\SizeAll.cur
+UpArrow=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\UpArrow.cur
+Hand=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\cursors\Hand.cur
+DefaultValue=[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\wallpaper\34004-no-game-no-life-no-game-no-life.jpg
+; Windows 8 y 8.1 doesn't use anymore this line, save as legacy code.
+TileWallpaper = 0
+; 0:  Centrado / Center
+; 1:  Mosaico / Tile
+; 2:  Expandido / Stretch
+; 3:  Ajustar / Fit
+; 4:  Rellenar / Fill
+PicturePosition = 4
+Pattern=
+ScreenSaveActive=0
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\Shiro NGNL win881 by kurohtenshi.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0X738742FF
+VisualStyleVersion=10
+
+[Slideshow]
+Interval=180000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\resources\themes\[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi\wallpaper\
+
+[boot]
+
+[MasterThemeSelector]
+MTSM = DABJDKT
+[Sounds]
+
+; IDS_SCHEME_DEFAULT
+SchemeName=[NikenNoSekai][Win881] No Game No Life - Shiro by kurohtenshi
+
